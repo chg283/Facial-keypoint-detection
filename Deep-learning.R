@@ -7,7 +7,7 @@ library(mice)
 
 
 #data source path and source files
-data.dir   <- 'C:/Users/Priyank/OneDrive/Documents/MIS/Applied Multivariate Analysis/Mid Term Project - Facial Keypoints Detection/DataSource/'
+data.dir   <- '~/Desktop/Facial-KeyPoint-Detection/DataSets/'
 train.file <- paste0(data.dir, 'training.csv')
 test.file  <- paste0(data.dir, 'test.csv')
 
